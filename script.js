@@ -5,7 +5,7 @@ var currentWeekDay = "";
 
 function getCurrentWeekDay() { 
     var result;
-    var daysArray = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    var daysArray = ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"];
     var currentDate = new Date();
     var currentDay = currentDate.getDay();
     result = daysArray[currentDay];
