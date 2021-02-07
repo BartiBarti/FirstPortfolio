@@ -1,6 +1,7 @@
 /* Global */
 *, *::before, *::after {
     box-sizing: border-box; }
+
   
   body {
     margin: 0;
@@ -10,6 +11,11 @@
     font-size: 16px;
     line-height: 1.7;
     font-family: "Josefin Sans", sans-serif; }
+
+#date-container {
+    position: absolute;
+    left: 80%;
+}
   
   section {
     padding: 108px 0 108px 0; }
