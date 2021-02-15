@@ -153,6 +153,17 @@
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
     
  }
+ .skills2 {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #ffa801;}
+.css {width: 80%; background-color: #ffa801;}
+.js {width: 65%; background-color: #ffa801;}
+.php {width: 60%; background-color: #ffa801;}
   
   /* Footer */
   .page-footer {
