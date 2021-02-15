@@ -12,6 +12,26 @@
     line-height: 1.7;
     font-family: "Josefin Sans", sans-serif; }
 
+#menu-container {
+      text-align: left;
+      background: #ffa801;
+    
+}
+
+#menu-container li {
+      display: inline-block;
+      margin-right: 40px;
+    }
+
+#menu-container a {
+  text-decoration: none;
+  color: #FF0000;
+  }
+
+#menu-container a:hover {
+  color: #FFA801;
+}
+
 #date-container {
     position: absolute;
     left: 80%;
