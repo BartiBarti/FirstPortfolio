@@ -25,11 +25,11 @@
 
 #menu-container a {
   text-decoration: none;
-  color: #FF0000;
+  color: #c23616;
   }
 
 #menu-container a:hover {
-  color: #FFA801;
+  color: #FF0000;
 }
 
 #date-container {
