@@ -189,3 +189,10 @@
   .page-footer {
     background: #242424; }
   
+button {
+  font-family: "Josefin Sans", sans-serif;
+  background-color: #ffa801;
+}
+button a {
+  color: #ff0000;
+}
